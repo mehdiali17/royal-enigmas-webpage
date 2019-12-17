@@ -4,7 +4,7 @@
 
 
 # Concept
-We were asked to make a scene that corresponds with the Habib University context, so we thought what better than a scene that accurately depicts the ideal journey each student at Habib has to take. One of our team members made a 3d animation for his course earlier, so we recreated a scene from that animation. We used Maya to build our scene using planes and sphere, these objects were later triangulated for an easy import to our raytracer.
+We were asked to make a scene that corresponds with the context of Habib University, so we thought what better than a scene that accurately depicts the ideal journey each student at Habib has to take. One of our team members already had a scene made where a ball goes upstairs, so we recreated that scene and added yohsin colors to it. We used Maya to build our scene using planes and sphere, these objects were later triangulated for an easy import to our raytracer.
 
 # Scene
 We built the scene using Maya, the scene consists of triangulated meshes that make up the sphere, the stair case and even the walls in our scene
@@ -16,10 +16,10 @@ We built the scene using Maya, the scene consists of triangulated meshes that ma
 # Code Features
 In working on the extension of the simpler version of the RayTracer, which had more basic basic functionalities. Expandig the raytracer was a matter of adding more details to our scenes through Lights and Materials.
 
-## Lights: 
+* __Lights__: 
 We implemented the Ambient Light source, the Point Light source and the Spotlight source.
 
-## Materials:
+* __Materials__:
 The materials we defined were Reflective and Matte.
 
 # Acceleration
@@ -29,10 +29,10 @@ The materials we defined were Reflective and Matte.
 *Yet to be done*
 
 # Acknowledgment
-* Kevin Suffern's [Ray Tracer From The Ground Up](http://www.raytracegroundup.com/)
+* Kevin Suffern's [Ray Tracer From The Ground Up](http://www.raytracegroundup.com/).
 * [Team Raytracer](https://github.com/team-raytracer/raytracer)'s practical approach to ray tracing.
-* [Waqar Saleem](https://habib.edu.pk/SSE/dr-waqar-saleem/) for his lectures
-* Acknowledgment 4
+* [Waqar Saleem](https://habib.edu.pk/SSE/dr-waqar-saleem/) for his lectures.
+* [Stackoverflow](https://stackoverflow.com/) for debugging the code.
 
 # Team
 1. Mehdi Ali (mb03027)
