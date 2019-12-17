@@ -7,11 +7,11 @@
 We were asked to make a scene that corresponds with the context of Habib University, so we thought what better than a scene that accurately depicts the ideal journey each student at Habib has to take. One of our team members already had a scene made where a ball goes upstairs, so we recreated that scene and added yohsin colors to it. We used Maya to build our scene using planes and sphere, these objects were later triangulated for an easy import to our raytracer.
 
 # Scene
-We built the scene using Maya, the scene consists of triangulated meshes that make up the sphere, the stair case and even the walls in our scene
+We built the scene using Maya, the scene consists of triangulated meshes that make up the sphere, the stair case and the walls in our scene. This scene was exported in a .obj file, which lists down all vertices, their normals and also faces which can be used to get a list of all primitives in the scene.
 
 # Image Features
 * The image contains multiple light sources to show yohsin colors at the end of the staircase.
-* There are well over million primitives in the image.
+* There are more than 800,000 primitives; approximately a million primitives in the scene.
 
 # Code Features
 In working on the extension of the simpler version of the RayTracer, which had more basic basic functionalities. Expandig the raytracer was a matter of adding more details to our scenes through Lights and Materials.
@@ -20,7 +20,7 @@ In working on the extension of the simpler version of the RayTracer, which had m
 We implemented the Ambient Light source, the Point Light source and the Spotlight source.
 
 * __Materials__:
-The materials we defined were Reflective and Matte.
+The materials we defined were Reflective and Matte. Reflective inherits from the Phong model.
 
 # Acceleration
 *Yet to be done*
