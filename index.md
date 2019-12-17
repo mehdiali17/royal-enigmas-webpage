@@ -1,5 +1,5 @@
 # Royal Enigmas    
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![High res render from Maya](https://github.com/mehdiali17/royal-enigmas-webpage/blob/master/high%20res.png)
 
 
 
