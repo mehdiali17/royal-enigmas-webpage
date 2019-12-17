@@ -16,10 +16,10 @@ We built the scene using Maya, the scene consists of triangulated meshes that ma
 # Code Features
 In working on the extension of the simpler version of the RayTracer, which had more basic basic functionalities. Expandig the raytracer was a matter of adding more details to our scenes through Lights and Materials.
 
-## * Lights: 
+## Lights: 
 We implemented the Ambient Light source, the Point Light source and the Spotlight source.
 
-## * Materials:
+## Materials:
 The materials we defined were Reflective and Matte.
 
 # Acceleration
