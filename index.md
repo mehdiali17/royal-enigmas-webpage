@@ -1,5 +1,5 @@
 # Royal Enigmas    
-![High res render from Maya](https://github.com/mehdiali17/royal-enigmas-webpage/blob/master/high%20res.png)
+![High res render from Maya](high%20res.png)
 
 
 
@@ -26,16 +26,16 @@ The materials we defined were Reflective and Matte. Reflective inherits from the
 __These are the files used for testing purposes:__
 * [buildChapter14.cpp](https://github.com/habib-university/cs440-fall19-proj-ii-the-royal-enigmas/blob/master/src/build/buildChapter14.cpp) builds the following scene:
 
-![buildChapter14's render](https://github.com/mehdiali17/royal-enigmas-webpage/blob/master/buildChapter14.png)
+![buildChapter14's render](buildChapter14.png)
 * [buildMvp.cpp](https://github.com/habib-university/cs440-fall19-proj-ii-the-royal-enigmas/blob/master/src/build/buildMvp.cpp) builds the following scene:
 
-![buildMvp's render](https://github.com/mehdiali17/royal-enigmas-webpage/blob/master/buildMvp.png)
+![buildMvp's render](buildMvp.png)
 * [buildHelloWorld.cpp](https://github.com/habib-university/cs440-fall19-proj-ii-the-royal-enigmas/blob/master/src/build/buildHelloWorld.cpp) builds the following scene:
 
-![buildHelloWorld's render](https://github.com/mehdiali17/royal-enigmas-webpage/blob/master/buildHelloWorld.png)
+![buildHelloWorld's render](buildHelloWorld.png)
 * [buildLightTest.cpp](https://github.com/habib-university/cs440-fall19-proj-ii-the-royal-enigmas/blob/master/src/build/buildLightTest.cpp) builds the following scene:
 
-![buildLightTest's render](https://github.com/mehdiali17/royal-enigmas-webpage/blob/master/buildLightTest.png)
+![buildLightTest's render](buildLightTest.png)
 
 __All these files were used to test out our code.__
 
