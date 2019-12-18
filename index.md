@@ -37,8 +37,6 @@ __These are the files used for testing purposes:__
 
 ![buildLightTest's render](buildLightTest.png)
 
-__All these files were used to test out our code.__
-
 # Acknowledgment
 * Kevin Suffern's [Ray Tracer From The Ground Up](http://www.raytracegroundup.com/).
 * [Team Raytracer](https://github.com/team-raytracer/raytracer)'s practical approach to ray tracing.
