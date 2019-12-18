@@ -27,7 +27,6 @@ __These are the files used for testing purposes:__
 * [buildChapter14.cpp](https://github.com/habib-university/cs440-fall19-proj-ii-the-royal-enigmas/blob/master/src/build/buildChapter14.cpp) builds the following scene:
 
 ![buildChapter14's render](https://github.com/mehdiali17/royal-enigmas-webpage/blob/master/buildChapter14.png)
-![buildChapter14's render](https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 * [buildMvp.cpp](https://github.com/habib-university/cs440-fall19-proj-ii-the-royal-enigmas/blob/master/src/build/buildMvp.cpp) builds the following scene:
 
 ![buildMvp's render](https://github.com/mehdiali17/royal-enigmas-webpage/blob/master/buildMvp.png)
